@@ -3,13 +3,10 @@ package pro.sky.java.homeworks.course2.lesson1;
 public class WeelanleTransport {
     private String modelName;
     private int wheelsCount;
-
-
     public WeelanleTransport(String modelName, int wheelsCount) {
         this.modelName = modelName;
         this.wheelsCount = wheelsCount;
     }
-
     public String getModelName() {
         return modelName;
     }

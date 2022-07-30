@@ -18,5 +18,6 @@ public class Main {
         ServiceStation.check(bicycle2);
         ServiceStation.check(truck);
         ServiceStation.check(truck2);
+        ServiceStation.check(car);
     }
 }

@@ -12,7 +12,6 @@ public class Bicycle extends WeelanleTransport implements Service {
             updateTyre();
         }
     }
-
     private void updateTyre() {
         System.out.println("Меняем покрышку у велосипеда");
     }

@@ -1,7 +1,6 @@
 package pro.sky.java.homeworks.course2.lesson1;
 
 public class Truck extends WeelanleTransport implements Service {
-
     public Truck(String modelName, int wheelsCount) {
         super(modelName, wheelsCount);
     }
